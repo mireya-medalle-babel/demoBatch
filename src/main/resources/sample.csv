@@ -1,0 +1,8 @@
+id,username,password,email
+1,admin,admin,admin@group.com
+2,user,user,user@group.com
+3,manager,manager,manager@group.com
+4,employee,employee,employee@group.com
+5,client,client,client@group.com
+6,partner,partner,partner@group.com
+7,visitor,visitor,visitor@group.com
